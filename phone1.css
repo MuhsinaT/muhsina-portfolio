@@ -1,0 +1,50 @@
+/*navbar*/
+.navbar ul{flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+
+
+
+
+/*headings*/
+.heading{
+    font-size: 1.8rem;
+}
+/*about section*/
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+.about img{
+    width:300;
+    height:150;
+    padding:0px 15px;
+}
+/*message box*/
+#message{
+    width: 40%;
+    height:200px;
+}
+/*boxes*/
+
+.box{
+    height: 150px;
+    width: 300px;
+    background-color:rgba(255, 255,255, 0.1);
+    border-radius: 20px;
+    margin:10px;
+    padding: 10px;
+}
+.box h2{
+    color: yellowgreen;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.box p{
+    color:white;
+    font: size .8em;
+}
